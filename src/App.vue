@@ -6,7 +6,7 @@ const count = ref(0)
 
 <template>
   <main>
-    <h1>🐾 MyPet</h1>
+    <h1>🐾 MyPet TEST AI</h1>
     <button @click="count++">Count: {{ count }}</button>
   </main>
 </template>
